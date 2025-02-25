@@ -8,4 +8,4 @@ you will recive python code.
 now you can create two files, one for encryption and other for decryption.
 you can also create GUI for data hiding process in images.
 This project is helpful for mainataining confidentiality and secure message delivery
-THANK YOU!
+                     THANK YOU!
