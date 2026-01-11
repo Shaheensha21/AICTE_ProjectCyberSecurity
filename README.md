@@ -1,9 +1,9 @@
-🖼️ Secure Data Hiding in Images Using Steganography
-🧠 Overview
+**🖼️ Secure Data Hiding in Images Using Steganography**
+**🧠 Overview**
 
 A cybersecurity and image processing project focused on securely embedding sensitive information into digital images using steganography. The hidden data remains invisible to the human eye and can only be accessed through authorized decryption, ensuring confidential communication.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🎯 Objectives
+**🎯 Objectives**
 
 Securely embed confidential data inside image files
 
@@ -11,19 +11,18 @@ Maintain privacy and confidentiality during data transmission
 
 Enable reliable extraction of hidden data using decryption techniques
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-⚙️ Techniques Used
+**⚙️ Techniques Used**
 
 Steganography for data embedding
-
 Image processing with OpenCV
 
 Python scripting for encryption and decryption
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🧪 Workflow
+**🧪 Workflow**
 
 Input sensitive data → Embed in image using encryption.py → Share steganographic image → Extract hidden data using decryption.py
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Python, OpenCV, Image Processing, IDLE/Python IDE
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,7 +31,7 @@ encryption.py   # Embeds secret data into images
 decryption.py   # Extracts hidden data from images
 (Optional) GUI  # User-friendly interface for encryption/decryption
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📦 Installation & Setup
+**📦 Installation & Setup**
 
 Install Python from https://www.python.org/
 
@@ -44,7 +43,7 @@ Extract contents into a new folder
 
 Open the folder in Python IDE
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📈 Outcomes
+**📈 Outcomes**
 
 Secure message embedding and retrieval demonstrated
 
@@ -54,7 +53,7 @@ Practical application of steganography and cybersecurity concepts
 
 Suitable for secure messaging, digital forensics, and data protection
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔮 Future Enhancements
+**🔮 Future Enhancements**
 
 Develop a graphical user interface (GUI)
 
